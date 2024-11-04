@@ -1,6 +1,4 @@
-Thanks for downloading this template!
-
-Template Name: MyResume
-Template URL: https://bootstrapmade.com/free-html-bootstrap-template-my-resume/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Thanks for downloading this project!
+URL: // to review
+Author: wassim khazri
+Linkedin: https://www.linkedin.com/in/wassim-khazri-ab923a14b/
