@@ -1457,3 +1457,7 @@ section,
 .starter-section {
   /* Add your styles here */
 }
+
+#hero .col-lg-9 {
+  text-align: right; /* Aligne le texte à gauche si nécessaire */
+}
