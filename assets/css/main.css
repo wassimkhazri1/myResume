@@ -1461,3 +1461,10 @@ section,
 #hero .col-lg-9 {
   text-align: right; /* Aligne le texte à gauche si nécessaire */
 }
+
+.flag-icon {
+  width: 30px;
+  height: auto;
+  margin-right: 0px;
+  vertical-align: middle;
+}
