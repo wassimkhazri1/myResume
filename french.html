@@ -273,7 +273,7 @@
 
       </div>
     </div>
-      <button onclick="generatePDF()">Download CV as PDF</button>
+      <button onclick="generatePDF()">Télécharger le CV au format PDF</button>
     
       <script>
         function generatePDF() {
@@ -282,10 +282,13 @@
     
           pdf.html(document.getElementById('cv-content'), {
             callback: function (doc) {
-              doc.save('CV_John_Doe.pdf');
+              doc.save('CV_Wassim_Khazri.pdf');
             },
             x: 10,
-            y: 10
+            y: 10,
+            html2canvas: {
+              scale: 0.17 // Adjusts the scale for better fitting in A4
+            }
           });
         }
       </script>
